@@ -30,3 +30,6 @@ https://www.electronjs.org/
 
 # Comment
 This bot runs sololy using localstorage, so it wont be able to save anything you created in the case your app gets deleted.
+There might also be alot of issues with packaging and running on windows or mac.
+
+# Good luck
