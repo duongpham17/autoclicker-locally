@@ -27,3 +27,6 @@ http://robotjs.io/docs/syntax
 
 # Electron link
 https://www.electronjs.org/
+
+# Comment
+This bot runs sololy using localstorage, so it wont be able to save anything you created in the case your app gets deleted.
