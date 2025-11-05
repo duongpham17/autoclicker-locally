@@ -1,5 +1,7 @@
 # Getting started
 
+This app is creted using electron + react.
+
 You need to install Nodejs - https://nodejs.org/en/
 
 ```
